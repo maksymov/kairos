@@ -10,10 +10,20 @@
 
 header {
   background-image: url('{{ site.baseurl }}/images/header-bg.jpg');
-  min-height: 200px;
+  min-height: 400px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
+  background-position-y: center;
+}
+
+footer {
+  background-color: $lightGray;
+  padding: 10px;
+}
+
+#main {
+  min-height: 400px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
