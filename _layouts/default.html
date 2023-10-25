@@ -10,13 +10,15 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/bootstrap.min.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    <script src="{{ site.baseurl }}/bootstrap.boundle.min.js"></script>
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
-    <div class="wrapper-masthead">
+    <!--div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
@@ -32,11 +34,15 @@
           </nav>
         </header>
       </div>
-    </div>
+    </div-->
 
-    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <header>
+      LOGO
+    </header>
+
+    <nav class="navbar navbar-expand-lg bg-dark mb-4" data-bs-theme="dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Kairos</a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/">Kairos</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -62,13 +68,13 @@
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
+    <footer>
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
       </div>
-    </div>
+    </footer>
 
     {% include analytics.html %}
   </body>
