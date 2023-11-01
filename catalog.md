@@ -11,7 +11,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Additive Layer Manufacturing</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -21,7 +21,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Analyzers of chemical composition of metals and alloys</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -31,7 +31,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Corrosion Equipment</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -41,7 +41,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Electron beam welding</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Equipment for laser marking of products</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -61,7 +61,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Equipment for microelectronics</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -71,7 +71,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Glove boxes</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -81,7 +81,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Heat Treatment Equipment</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -91,7 +91,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">High precision measuring equipment</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -101,7 +101,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Hydraulic and mechanical presses</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -111,7 +111,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Hydrogen refill</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -121,7 +121,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Induction pipe bending machines</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -131,7 +131,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Optical and electron microscopy</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -141,7 +141,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Servers and telecommunications equipment</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -151,7 +151,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Technical gases</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -161,7 +161,7 @@ permalink: /catalog/
             <div class="card-body">
               <h5 class="card-title">Vacuum Equipment</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="{{ site.baseurl }}/" class="btn btn-primary">Show more</a>
+              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
