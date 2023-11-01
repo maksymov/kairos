@@ -5,21 +5,21 @@ permalink: /catalog/
 ---
 
 <div class="row">
-    <div class="col col-3">
+    <div class="col-3 mt-4">
         <div class="card">
             <img src="{{ site.baseurl }}/images/sadkljfhlkfhsihfjkasdfkasdjdf.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Additive Layer Manufacturing</h5>
-              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
+              <a href="{{ site.baseurl }}/alm/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
-    <div class="col col-3">
+    <div class="col-3 mt-4">
         <div class="card">
             <img src="{{ site.baseurl }}/images/EE1wFcJY4KTumxLKciVc5HeNK0ma4f-metaMzg0MThhZTI4NGIyYjU0NTdjOTgzNjhjYTBmMzMxNDUuanBn-.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Analyzers of chemical composition of metals and alloys</h5>
-              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
+              <a href="{{ site.baseurl }}/accma/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -28,7 +28,7 @@ permalink: /catalog/
             <img src="{{ site.baseurl }}/images/s0h7VBjgPzKssck64aUKIR5mZcD85y-metaMmUyYTAyZGI5OThmMjg4YzFmYzM1YTJkMWI3YWUwZTAuanBn-.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Corrosion Equipment</h5>
-              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
+              <a href="{{ site.baseurl }}/corr-eq/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -37,7 +37,7 @@ permalink: /catalog/
             <img src="{{ site.baseurl }}/images/o3sOHP0S9GalugwkAMHenCYDHrtc35-metaY2ZmNTViNzYzN2Y0ZmY2YWIxYjJlNWU1MmMzZGI2NzUuanBn-.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Electron beam welding</h5>
-              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
+              <a href="{{ site.baseurl }}/ebw/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -46,7 +46,7 @@ permalink: /catalog/
             <img src="{{ site.baseurl }}/images/4ICj8y1vgHA5Gp11aqwbM62iuITsih-metabW9iaWwtbGFzZXItbWFya2luZy1zeXN0ZW0tMS5qcGc=-.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Equipment for laser marking of products</h5>
-              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
+              <a href="{{ site.baseurl }}/elmp/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -55,7 +55,7 @@ permalink: /catalog/
             <img src="{{ site.baseurl }}/images/Or7G4i3SWmtm9WivVVARZJz94F82Md-metaMjZmNWJhMzVjNjAyYjFkZGQ2ODYzOGU5NDkyNjg1OWMuanBn-.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Equipment for microelectronics</h5>
-              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
+              <a href="{{ site.baseurl }}/efm/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>
@@ -64,7 +64,7 @@ permalink: /catalog/
             <img src="{{ site.baseurl }}/images/jtMXVtgutQhavfsEpYrGqABkTzOeKP-metaNmQ4MWVjNTYzMTI0OTRjNDdkNWI1NmY2NWI2MDM1YTAuanBn-.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Glove boxes</h5>
-              <a href="{{ site.baseurl }}/" class="btn btn-dark">Show more</a>
+              <a href="{{ site.baseurl }}/gb/" class="btn btn-dark">Show more</a>
             </div>
         </div>
     </div>

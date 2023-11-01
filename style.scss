@@ -31,6 +31,12 @@ footer {
   
 }
 
+img {
+  max-width: 300px;
+  float: left;
+  margin-right: 20px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
