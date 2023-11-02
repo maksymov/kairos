@@ -3,6 +3,8 @@ layout: page
 permalink: /elmp/
 ---
 
+# Equipment for laser marking of products
+
 ![]({{ site.baseurl }}/images/Asset-2.png)
 
  For decades, marking equipment from the American brand Telesis has been at the forefront of engineering. The company was one of the first to develop its own fiber laser markers for processing products made of metal and other materials (wood, glass, plastic, etc.).
