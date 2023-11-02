@@ -46,6 +46,11 @@ h2 {
   max-width: 100%;
 }
 
+.carousel-inner img {
+  max-width: none;
+  max-height: none;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
