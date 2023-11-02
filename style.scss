@@ -26,15 +26,24 @@ footer {
   min-height: 400px;
 }
 
-.card-img-top {
-  //max-height: 100px;
-  
+img {
+  max-width: 400px;
+  max-height: 200px;
+  float: left;
+  margin: 20px;
 }
 
-img {
-  max-width: 300px;
-  float: left;
-  margin-right: 20px;
+ul {
+  list-style-type: disc;
+}
+
+h2 {
+  padding-top: 40px;
+}
+
+.card-img-top {
+  margin: 0px;
+  max-width: 100%;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
