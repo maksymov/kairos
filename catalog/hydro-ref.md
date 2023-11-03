@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /hydro-ref/
+title: Hydrogen refill
+img: /images/K9uoLlORZYxpCcGs5Ax5aNhjaCGMYw-metaNzI5MjE2Y2QyOWYxMjAwYTBiZTQ0YmUyY2FmNDkyODMucG5n-.png
 ---
-
-# Hydrogen refill
 
 ## Filling station H2 ENERGO
 

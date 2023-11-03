@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /efm/
+title: Equipment for microelectronics
+img: /images/Or7G4i3SWmtm9WivVVARZJz94F82Md-metaMjZmNWJhMzVjNjAyYjFkZGQ2ODYzOGU5NDkyNjg1OWMuanBn-.jpg
 ---
-
-# Equipment for microelectronics
 
 These devices are technical means used in the synthesis of insulating coatings, new polymers, dielectrics and semiconductors. For work in the field of microelectronics are often used:
 

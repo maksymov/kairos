@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /hamp/
+title: Hydraulic and mechanical presses
+img: /images/aHca3k3zYJ2GgZmnha7bdyIYf1P0uk-metaNzNiNjUzZWZlYmUwMTdjNjUxYjVmZjBkMmU2NWQxMDguanBn-.jpg
 ---
-
-# Hydraulic and mechanical presses
 
 <div class="block" markdown="1">
 

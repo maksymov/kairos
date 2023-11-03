@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /gases/
+title: Technical gases
+img: /images/mhAPsClQdl9QzycOfFEwhSCTOI5OMD-metaYTIzYzFiMDVjYjRjMjI2MWVhNjJlZjFhZWY1N2I5ZmEucG5n-.png
 ---
-
-# Technical gases
 
 <div class="block" markdown="1">
 

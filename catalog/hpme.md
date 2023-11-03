@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /hpme/
+title: High precision measuring equipment
+img: /images/42xNsW6Y4yB2s8SOuPxIDRIGcRZGX6-metaZTQ1YzY5OTRjZDY0YzhmNzlhMjA3MTk2YjdmNWMzMTgucG5n-.png
 ---
-
-# High precision measuring equipment
 
 <div class="block" markdown="1">
 

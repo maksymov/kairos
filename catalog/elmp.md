@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /elmp/
+title: Equipment for laser marking of products
+img: /images/4ICj8y1vgHA5Gp11aqwbM62iuITsih-metabW9iaWwtbGFzZXItbWFya2luZy1zeXN0ZW0tMS5qcGc=-.jpg
 ---
-
-# Equipment for laser marking of products
 
 ![]({{ site.baseurl }}/images/Asset-2.png)
 

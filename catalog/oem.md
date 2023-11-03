@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /oem/
+title: Optical and electron microscopy
+img: /images/S5GpVKocOWpw7WFhtiDz7H8VdnkgRz-metaNjdlOTcxNTA5NjY3OWRjNDRhMjI2YmQ2YTU1NTM4MjYucG5n-.png
 ---
-
-# Optical and electron microscopy
 
 Among the many varieties of microscopes, optical and electronic are considered the most popular. The first option refers to traditional optical equipment. Such devices make it possible to distinguish between particles up to 0.2 µm. Their magnifying ability can reach 2000 times.
 

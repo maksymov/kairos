@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /corr-eq/
+title: Corrosion Equipment
+img: /images/s0h7VBjgPzKssck64aUKIR5mZcD85y-metaMmUyYTAyZGI5OThmMjg4YzFmYzM1YTJkMWI3YWUwZTAuanBn-.jpg
 ---
-
-# Corrosion Equipment
 
 Our company supplies Cormet equipment for corrosion testing in laboratory and field conditions. Cormet specializes in high pressure and high temperature projects. Cormet products are in demand in university and industrial laboratories working in the energy, chemical, transport and oil and gas industries. Almost all products are customized and manufactured according to customer needs.
 

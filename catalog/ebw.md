@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /ebw/
+title: Electron beam welding
+img: /images/o3sOHP0S9GalugwkAMHenCYDHrtc35-metaY2ZmNTViNzYzN2Y0ZmY2YWIxYjJlNWU1MmMzZGI2NzUuanBn-.jpg
 ---
-
-# Electron beam welding
 
 **Purpose of installation:**
 

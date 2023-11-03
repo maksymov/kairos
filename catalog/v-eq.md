@@ -1,11 +1,8 @@
 ---
 layout: page
-permalink: /v-eq/
+title: Vacuum Equipment
+img: /images/7F9urvb4b2shytXoLbHlvWE35iq1aG-metaNDAwYjliYzM5YjNhNTg5NzBjYWExYTliNGU0YzZhMWEucG5n-.png
 ---
-
-# Vacuum Equipment
-
-
 
 Our company specializes in the supply of vacuum processing equipment, which is used in the production of textiles, food, pharmacology, metallurgy and other industries. It is divided into control systems, pumps, various presses, air blowers and other units. With this equipment, you can automate many processes, thereby reducing staff costs. The greatest demand is for chamber-type units for creating vacuum packaging, which is used both in the banking sector and for medical products. At that time, thermoforming machines were more demanding for industrial enterprises.
 

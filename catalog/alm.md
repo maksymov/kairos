@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /alm/
+title: Additive Layer Manufacturing
+img: /images/sadkljfhlkfhsihfjkasdfkasdjdf.jpg
 ---
-
-# Additive Layer Manufacturing
 
 <div class="block" markdown="1">
 

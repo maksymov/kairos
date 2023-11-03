@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /gb/
+title: Glove boxes
+img: /images/jtMXVtgutQhavfsEpYrGqABkTzOeKP-metaNmQ4MWVjNTYzMTI0OTRjNDdkNWI1NmY2NWI2MDM1YTAuanBn-.jpg
 ---
-
-# Glove boxes
 
 The glove box is a device designed to protect the operator from the influence of hazardous substances with which it will be necessary to perform certain technological processes or experimental steps of the technological process, as well as to protect the material with which the work is performed from the unwanted effects of atmospheric air (for example, oxygen or water vapor ).
 

@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /ste/
+title: Servers and telecommunications equipment
+img: /images/Z4HGP6PGjfpvWX3qH2Zzv00rM0bP5Y-meta0LfQsNCz0YDRg9C20LXQvdC90L7QtS5qcGc=-.jpg
 ---
-
-# Servers and telecommunications equipment
 
 <div class="block" markdown="1">
 

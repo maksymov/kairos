@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /ipbm/
+title: Induction pipe bending machines
+img: /images/dqOWlRKbHYfs7h2VBweGRNs93QctbI-metaMDNiMDFmMzFhZjFkNGM3NDMwNzRlZDBmMzA2MGQxODAucG5n-.png
 ---
 
 ![]({{ site.baseurl }}/images/2023-03-28_15.30.33.jpg)

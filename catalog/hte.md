@@ -1,11 +1,8 @@
 ---
 layout: page
-permalink: /hte/
+title: Heat Treatment Equipment
+img: /images/k8m6MbRCJ5Z4mnqTCZdh2RY4yTLHgn-metaZWVkNmFhODU2MjA5MDE0ODJjYTYxMzYyOTE1ODAyNTYuanBn-.jpg
 ---
-
-# Heat Treatment Equipment
-
-
 
 We offer vacuum and atmospheric furnaces for various heat treatment processes.
 

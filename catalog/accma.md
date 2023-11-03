@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /accma/
+title: Analyzers of chemical composition of metals and alloys
+img: /images/EE1wFcJY4KTumxLKciVc5HeNK0ma4f-metaMzg0MThhZTI4NGIyYjU0NTdjOTgzNjhjYTBmMzMxNDUuanBn-.jpg
 ---
-
-# Analyzers of chemical composition of metals and alloys
 
 An industrial analyzer of the chemical composition of alloys is a device that allows you to quickly and with a high degree of accuracy non-destructive control of the composition. The main advantage of the devices implemented by our company is the exclusion of the human factor from the analysis process. A variety of models in our catalog makes it possible to choose the best device for any profile production.
 
